@@ -1,4 +1,4 @@
-<h1 align="center" id="top">Master Thesis EEG Visualization Tool for Locating Artifacts</h1>
+<h1 align="center" id="top">Master Thesis: Tool for Locating EEG Artifacts</h1>
 
 <h3 align="center">
   A project created by Anders Schultz, master student in Data Science.
