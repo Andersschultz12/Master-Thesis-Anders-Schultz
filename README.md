@@ -6,3 +6,7 @@
   Visit the application using this <a href="https://eeg-visualization-tool-py-as.streamlit.app">Link</a>
   <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="" style="vertical-align:middle; margin-left:10px;" width=30>
 </h3>
+
+<h3 align="center">
+  (More information comming soon)
+</h3>
