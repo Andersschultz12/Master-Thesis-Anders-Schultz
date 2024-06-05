@@ -1,17 +1,63 @@
 <h1 align="center" id="top">Master Thesis: Tool for Locating EEG Artifacts</h1>
 
-<h3 align="center">
-  A project created by Anders Schultz, master student in Data Science.
-  <br>
-  Visit the application using this <a href="https://eeg-visualization-tool-py-as.streamlit.app">Link</a> 
-  <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="" style="vertical-align:middle; margin-left:10px;" width="30">
-  PW: 123321
-  <br>
-  <img src="Images/overview_and_detail.png" alt="Overview and Detail" style="margin-top:10px;"/>
-  <a href = https://www.youtube.com/watch?v=q0UK1dZ_DFI>Youtube Video showcasing the tool</a>
-</h3>
+<h2 align="center">id="seedling-lol-data-sources">:About This Repository</h2>
+
+A project created by Anders Schultz, master student in Data Science.
+<br>
+Visit the application using this <a href="https://eeg-visualization-tool-py-as.streamlit.app">Link</a> 
+<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="" style="vertical-align:middle; margin-left:10px;" width="30">
+PW: 123321
+<br>
+<img src="Images/overview_and_detail.png" alt="Overview and Detail" style="margin-top:10px;"/>
+<a href = https://www.youtube.com/watch?v=q0UK1dZ_DFI>Youtube Video showcasing the tool</a>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 id="book-table-of-contents">:book: Table of Contents</h2>
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-this-repository">About This Repository</a></li>
+    <li><a href="#book-table-of-contents">Table of Contents</a></li>
+    <li><a href="#raw-data-structure">Raw Data Structure</a></li>
+    <li>
+      <a href="#data-preprocessing">Data preprocessing</a>
+      <ul>
+        <li><a href="#main">Main</a></li>
+        <li><a href="#raw-data">Raw Data</a></li>
+        <li><a href="#metric-calculations">Metric Calculations</a></li>
+        <li><a href="#spectrogram analysis">Spectrogram Analysis</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#eeg-visualization-tool">EEG Visualization Tool</a>
+      <ul>
+        <li><a href="#thesis-report">Thesis Report</a></li>
+        <li><a href="#video-showcase">Video Showcase</a></li>
+        <li><a href="#artifact-detection">Artifact Detection</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+<h2 id="raw-data-structure">:seedling: LoL Data Sources</h2>
+<h2 id="data-preprocessing">:seedling: LoL Data Sources</h2>
+<h3 id="main">:ladder: Solo Queue Data</h3>
+<h3 id="raw-data">:ladder: Solo Queue Data</h3>
+<h3 id="metric-calculations">:ladder: Solo Queue Data</h3>
+<h3 id="spectrogram analysis">:ladder: Solo Queue Data</h3>
+<h2 id="eeg-visualization-tool">:seedling: LoL Data Sources</h2>
+<h3 id="thesis-report">:ladder: Solo Queue Data</h3>
+<h3 id="video-showcase">:ladder: Solo Queue Data</h3>
+<h3 id="artifact-detection">:ladder: Solo Queue Data</h3>
 
 <h3 align="center">
   (More information coming soon)
 </h3>
+
+
+
+
+
 
