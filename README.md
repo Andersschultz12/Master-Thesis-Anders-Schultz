@@ -42,10 +42,10 @@ This thesis worked with Electroencephalography (EEG) data that follows the Brain
 The data utilized for testing purposes in this project originate from Openneuro: <a href="https://openneuro.org/datasets/ds004348/versions/1.0.4">Link</a>. For more information about the data and how it was collected, feel free to check it out.
 <br><br>
 <h2 id="data-preprocessing">Data Preprocessing</h2>
-<h3 id="main">Main File</h3>
-<h3 id="raw-data">Raw Data Filtering</h3>
-<h3 id="metric-calculations">Metric Calculations</h3>
-<h3 id="spectrogram analysis">Spectrogram Analysis</h3>
+<h3 id="main">📁 Main File</h3>
+<h3 id="raw-data">👩🏻‍💻 Raw Data Filtering</h3>
+<h3 id="metric-calculations">📊 Metric Calculations</h3>
+<h3 id="spectrogram analysis">🔊 Spectrogram Analysis</h3>
 <h2 id="eeg-visualization-tool"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="" style="vertical-align: middle; margin-left: 10px; display: inline;" width="30"> EEG Visualization Tool</h2>
 <img src="Images/overview_and_detail.png" alt="Overview and Detail" style="margin-top:10px;"/>
 Visit the application using this <a href="https://eeg-visualization-tool-py-as.streamlit.app">Link</a> with PW: 123321
