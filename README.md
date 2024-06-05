@@ -41,16 +41,16 @@ PW: 123321
   </ol>
 </details>
 
-<h2 id="raw-data-structure">:seedling: LoL Data Sources</h2>
-<h2 id="data-preprocessing">:seedling: LoL Data Sources</h2>
-<h3 id="main">:ladder: Solo Queue Data</h3>
-<h3 id="raw-data">:ladder: Solo Queue Data</h3>
-<h3 id="metric-calculations">:ladder: Solo Queue Data</h3>
-<h3 id="spectrogram analysis">:ladder: Solo Queue Data</h3>
-<h2 id="eeg-visualization-tool">:seedling: LoL Data Sources</h2>
-<h3 id="thesis-report">:ladder: Solo Queue Data</h3>
-<h3 id="video-showcase">:ladder: Solo Queue Data</h3>
-<h3 id="artifact-detection">:ladder: Solo Queue Data</h3>
+<h2 id="raw-data-structure">Raw Data Structure</h2>
+<h2 id="data-preprocessing">Data Preprocessing</h2>
+<h3 id="main">Main File</h3>
+<h3 id="raw-data">Raw Data Filtering</h3>
+<h3 id="metric-calculations">Metric Calculations</h3>
+<h3 id="spectrogram analysis">Spectrogram Analysis</h3>
+<h2 id="eeg-visualization-tool">EEG Visualization Tool</h2>
+<h3 id="thesis-report">Thesis Reporta</h3>
+<h3 id="video-showcase">Video Showcase</h3>
+<h3 id="artifact-detection">Artifact Detection</h3>
 
 <h3 align="center">
   (More information coming soon)
