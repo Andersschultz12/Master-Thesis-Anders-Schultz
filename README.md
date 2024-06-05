@@ -1,6 +1,6 @@
 <h1 align="center" id="top">Master Thesis: Tool for Locating EEG Artifacts</h1>
 
-<h2 id="about-this-repository">:About This Repository</h2>
+<h2 id="about-this-repository">About This Repository</h2>
 
 A project created by Anders Schultz, master student in Data Science.
 <br>
