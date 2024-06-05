@@ -37,6 +37,10 @@ At the core of this research is the development of an interactive visualization 
 </details>
 
 <h2 id="raw-data-structure">Raw Data Structure</h2>
+This thesis worked with Electroencephalography (EEG) data that follows the Brain Imaging Data Structure (BIDS), which standardizes folder structure, naming conventions, metadata files, JSON files and much more.
+<br><br>
+The data utilized for testing purposes in this project originate from Openneuro: <a href="https://openneuro.org/datasets/ds004348/versions/1.0.4">Link</a>. For more information about the data and how it was collected, feel free to check it out.
+<br><br>
 <h2 id="data-preprocessing">Data Preprocessing</h2>
 <h3 id="main">Main File</h3>
 <h3 id="raw-data">Raw Data Filtering</h3>
