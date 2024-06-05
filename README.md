@@ -30,7 +30,7 @@ At the core of this research is the development of an interactive visualization 
       <ul>
         <li><a href="#books-thesis-report">Thesis Report</a></li>
         <li><a href="#movie_camera-video-showcase">Video Showcase</a></li>
-        <li><a href="#artifact-detection">Artifact Detection</a></li>
+        <li><a href="#investigator-artifact-detection">Artifact Detection</a></li>
       </ul>
     </li>
   </ol>
@@ -46,13 +46,13 @@ The data utilized for testing purposes in this project originate from Openneuro:
 <h3 id="raw-data">Raw Data Filtering</h3>
 <h3 id="metric-calculations">Metric Calculations</h3>
 <h3 id="spectrogram analysis">Spectrogram Analysis</h3>
-<h2 id="eeg-visualization-tool">EEG Visualization Tool</h2>
+<h2 id="eeg-visualization-tool"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="" style="vertical-align: middle; margin-left: 10px; display: inline;" width="30">EEG Visualization Tool</h2>
 <img src="Images/overview_and_detail.png" alt="Overview and Detail" style="margin-top:10px;"/>
 Visit the application using this <a href="https://eeg-visualization-tool-py-as.streamlit.app">Link</a> with PW: 123321
 <h3 id="books-thesis-report">:books: Thesis Report</h3>
 <h3 id="movie_camera-video-showcase">:movie_camera: Video Showcase</h3>
 <a href = https://www.youtube.com/watch?v=q0UK1dZ_DFI>Youtube Video showcasing the tool</a>
-<h3 id="artifact-detection">Artifact Detection</h3>
+<h3 id="investigator-artifact-detection">:investigator: Artifact Detection</h3>
 
 <h3 align="center">
   (More information coming soon)
