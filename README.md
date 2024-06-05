@@ -50,6 +50,7 @@ The data utilized for testing purposes in this project originate from Openneuro:
 <img src="Images/overview_and_detail.png" alt="Overview and Detail" style="margin-top:10px;"/>
 Visit the application using this <a href="https://eeg-visualization-tool-py-as.streamlit.app">Link</a> with PW: 123321
 <h3 id="books-thesis-report">:books: Thesis Report</h3>
+The folder "Thesis" contains the Master Thesis Report written for this project. Check it out if you want a more detailed account of the entire process, including EEG talk, litterature, data preprocessing, design choices, implementation software and discussion of the resulting tool. 
 <h3 id="movie_camera-video-showcase">:movie_camera: Video Showcase</h3>
 <a href = https://www.youtube.com/watch?v=q0UK1dZ_DFI>Youtube Video showcasing the tool</a>
 <h3 id="spy-artifact-detection">🕵️ Artifact Detection</h3>
