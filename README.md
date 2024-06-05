@@ -1,4 +1,4 @@
-<h1 align="center" id="top">Master Thesis: Tool for Locating EEG Artifacts</h1>
+<h1 align="center" id="top">Master Thesis: Data Visualization Tool for Locating EEG Artifacts</h1>
 
 <h2 id="about-this-repository">About This Repository</h2>
 This contains the master thesis project created by Anders Schultz, masters student in Data Science at Aarhus University 2024 spring semester.
