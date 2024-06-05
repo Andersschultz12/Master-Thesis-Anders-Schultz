@@ -1,7 +1,7 @@
 <h1 align="center" id="top">Data Visualization Tool for Locating EEG Artifacts</h1>
 
 <h2 id="about-this-repository">About This Repository</h2>
-This contains the master thesis project created by Anders Schultz, masters student in Data Science at Aarhus University 2024 spring semester.
+<h4 This contains the master thesis project created by Anders Schultz, masters student in Data Science at Aarhus University 2024 spring semester. </h4>
 <br><br>
 This thesis explores the enhancement of Electroencephalography (EEG) data analysis through the integration of data preprocessing methods and interactive data visualization A comprehensive preprocessing pipeline focused on filtering, data cleaning, data transformation, and creating relevant EEG metrics is proposed, transforming raw EEG signals into a clean format suitable for in-depth analysis.
 <br><br>
