@@ -10,5 +10,5 @@
 
 <h3 align="center">
   (More information comming soon)
-  ![Overview and Detail](Images/overview and detail.png)
+  ![Overview and Detail](Images/overview_and_detail.png)
 </h3>
