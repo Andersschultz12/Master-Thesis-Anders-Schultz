@@ -8,6 +8,7 @@
   PW: 123321
   <br>
   <img src="Images/overview_and_detail.png" alt="Overview and Detail" style="margin-top:10px;"/>
+  <a href = https://www.youtube.com/watch?v=q0UK1dZ_DFI>Youtube Video showcasing the tool</a>
 </h3>
 
 <h3 align="center">
