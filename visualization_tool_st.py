@@ -653,7 +653,7 @@ def tab_tick_mark_overview():
                         mime="text/plain"
                     )
 
-def preprocessing_tab():
+def preprocessing_tab():#
     st.title('[CONCEPT:] Upload and Process .set File for EEG Data')
     st.header('Future add on can incude the ability to preprocess new subject directly from the application')
     # File uploader
@@ -673,17 +673,17 @@ def preprocessing_tab():
 
 def display_tabs():
     tabs = {
-    "Spectrogram View": tab_tick_mark_overview
-    #"Preprocessing of new data": preprocessing_tab
+    "Spectrogram View": tab_tick_mark_overview,
+    "Preprocessing of new data": preprocessing_tab
     }
 
     st.sidebar.header("EGG Data visualization tool")
-    #password = st.sidebar.text_input("Enter Password", type="password")
-    #correct_password = "123321"
+    password = st.sidebar.text_input("Enter Password", type="password")
+    correct_password = "123321"
     
-    #if password == correct_password:
-    selected_tab = st.sidebar.radio("Select a tab:", list(tabs.keys()))
-    tabs[selected_tab]()
+    if password == correct_password:
+        selected_tab = st.sidebar.radio("Select a tab:", list(tabs.keys()))
+        tabs[selected_tab]()
 
 st.set_page_config(layout="wide",)
 display_tabs()
