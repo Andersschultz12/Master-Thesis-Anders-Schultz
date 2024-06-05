@@ -52,7 +52,7 @@ Visit the application using this <a href="https://eeg-visualization-tool-py-as.s
 <h3 id="books-thesis-report">:books: Thesis Report</h3>
 <h3 id="movie_camera-video-showcase">:movie_camera: Video Showcase</h3>
 <a href = https://www.youtube.com/watch?v=q0UK1dZ_DFI>Youtube Video showcasing the tool</a>
-<h3 id="spy-artifact-detection">:spy: Artifact Detection</h3>
+<h3 id="spy-artifact-detection">🕵️ Artifact Detection</h3>
 
 <h3 align="center">
   (More information coming soon)
