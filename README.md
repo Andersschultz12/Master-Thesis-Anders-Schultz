@@ -7,9 +7,6 @@ A project created by Anders Schultz, master student in Data Science.
 Visit the application using this <a href="https://eeg-visualization-tool-py-as.streamlit.app">Link</a> 
 <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="" style="vertical-align:middle; margin-left:10px;" width="30">
 PW: 123321
-<br>
-<img src="Images/overview_and_detail.png" alt="Overview and Detail" style="margin-top:10px;"/>
-<a href = https://www.youtube.com/watch?v=q0UK1dZ_DFI>Youtube Video showcasing the tool</a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -48,8 +45,10 @@ PW: 123321
 <h3 id="metric-calculations">Metric Calculations</h3>
 <h3 id="spectrogram analysis">Spectrogram Analysis</h3>
 <h2 id="eeg-visualization-tool">EEG Visualization Tool</h2>
-<h3 id="thesis-report">Thesis Reporta</h3>
+<img src="Images/overview_and_detail.png" alt="Overview and Detail" style="margin-top:10px;"/>
+<h3 id="thesis-report">Thesis Report</h3>
 <h3 id="video-showcase">Video Showcase</h3>
+<a href = https://www.youtube.com/watch?v=q0UK1dZ_DFI>Youtube Video showcasing the tool</a>
 <h3 id="artifact-detection">Artifact Detection</h3>
 
 <h3 align="center">
