@@ -28,7 +28,7 @@ At the core of this research is the development of an interactive visualization 
     <li>
       <a href="#eeg-visualization-tool">EEG Visualization Tool</a>
       <ul>
-        <li><a href="#thesis-report">Thesis Report</a></li>
+        <li><a href="#books-thesis-report">Thesis Report</a></li>
         <li><a href="#video-showcase">Video Showcase</a></li>
         <li><a href="#artifact-detection">Artifact Detection</a></li>
       </ul>
@@ -49,7 +49,7 @@ The data utilized for testing purposes in this project originate from Openneuro:
 <h2 id="eeg-visualization-tool">EEG Visualization Tool</h2>
 <img src="Images/overview_and_detail.png" alt="Overview and Detail" style="margin-top:10px;"/>
 Visit the application using this <a href="https://eeg-visualization-tool-py-as.streamlit.app">Link</a> with PW: 123321
-<h3 id="thesis-report">Thesis Report</h3>
+<h3 id="books-thesis-report">:books: Thesis Report</h3>
 <h3 id="video-showcase">Video Showcase</h3>
 <a href = https://www.youtube.com/watch?v=q0UK1dZ_DFI>Youtube Video showcasing the tool</a>
 <h3 id="artifact-detection">Artifact Detection</h3>
