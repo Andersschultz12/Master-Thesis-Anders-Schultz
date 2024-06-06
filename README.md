@@ -66,7 +66,12 @@ The folder "Thesis" contains the Master Thesis Report written for this project. 
 <h3 id="movie_camera-video-showcase">:movie_camera: Video Showcase</h3>
 <a href = https://www.youtube.com/watch?v=q0UK1dZ_DFI>Youtube Video showcasing the tool</a>
 <h3 id="spy-artifact-detection">🕵️ Artifact Detection</h3>
+The primary goal of the visualization tool in its current state is to locate EEG artifacts and note it down. As a disclaimer, some of the things that the tool does not support yet are:
 
+- **Data Collection and Raw Data Storage:** This raw EEG data must be gathered using other methods.
+- **Automated Artifact Removal:** The tool can be used to identify artifacts but does not automatically remove them from the EEG recordings.
+- **Data Analysis after Artifact Removal** The tool does not have methods to execute standardized EEG data analysis after preprocessing and removal of artifacts.
+- 
 <h3 align="center">
   (More information coming soon)
 </h3>
