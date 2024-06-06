@@ -43,9 +43,21 @@ The data utilized for testing purposes in this project originate from Openneuro:
 <br><br>
 <h2 id="data-preprocessing">Data Preprocessing</h2>
 <h3 id="main">📁 Main File</h3>
+This is the original file from where the data preprocessing begins. It imports the methods from the other 3 files, and executes the process on select EEG data. It is possible to customize some of the values used for metric calculations like envelope, sequences passing thresholds etc.
+<br><br>
+The path of the EEG data .set / .fdt file needs to be inserted into the code, and that's the main requirement for full functionality. 
 <h3 id="raw-data">👩🏻‍💻 Raw Data Filtering</h3>
+This preprocessing step requires the MNE python library. It performs standardized procedures like band-pass-filter, sampling the data and cleaning missing values.
+<br><br>
+The functions currently assume that the data already has average of all electrodes subtracted from all electrodes. If not, adjust the first function to include it using MNE.
 <h3 id="metric-calculations">📊 Metric Calculations</h3>
+This file provides methods for calculating new metrics for the EEG data, and performs aggregation on each of these metrics afterwards. The list of metrics calculated are explained in greater detail in the thesis report.
+<br><br>
+The final product is an aggregated pandas dataframe containing relevant EEG metrics, and this frame gets stored using Parquet files.
 <h3 id="spectrogram analysis">🔊 Spectrogram Analysis</h3>
+The main method performs spectrogram calculations of a time series. It is basically a slightly polished version of scipy.signal._fft_helper. Arguments are explained inside the function. 
+<br><br>
+The other method calls the spectrogram method for all channels, and then arranges the result into the desired long data structure. In the main file, this dataframe is saved as Parquet files.
 <h2 id="eeg-visualization-tool"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="" style="vertical-align: middle; margin-left: 10px; display: inline;" width="30"> EEG Visualization Tool</h2>
 <img src="Images/overview_and_detail.png" alt="Overview and Detail" style="margin-top:10px;"/>
 Visit the application using this <a href="https://eeg-visualization-tool-py-as.streamlit.app">Link</a> with PW: 123321
