@@ -411,6 +411,7 @@ def tab_tick_mark_overview():
     alt.renderers.enable('default', embed_options={'renderer': 'canvas'})
 
     aggregated_df, frequency_df = load_data(['003']) #'001'
+    aggregated_df.columns = [col.replace(':', '').replace(',', '').replace(' ', '_') for col in aggregated_df.columns]
     column_names = list(aggregated_df.columns)
     
     columns_to_remove = ['index', 'Electrode', 'x_start', 'time_hms', 'subject']
